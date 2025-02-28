@@ -1,4 +1,5 @@
 using BookShop.Modules.BookModule;
+using FastEndpoints;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,7 @@ builder.Services.AddOpenApi();
 
 // Add Module Services
 builder.Services.AddBookServices();
+builder.Services.AddFastEndpoints();
 
 var app = builder.Build();
 
@@ -15,12 +17,6 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
-// Map Module Endpoints
-app.MapBookEndpoints();
+app.UseFastEndpoints();
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

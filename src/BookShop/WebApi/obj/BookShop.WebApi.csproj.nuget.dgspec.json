@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "FastEndpoints": {
+              "target": "Package",
+              "version": "[5.17.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -105,6 +111,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "FastEndpoints": {
+              "target": "Package",
+              "version": "[5.17.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -167,6 +179,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "FastEndpoints": {
+              "target": "Package",
+              "version": "[5.17.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -240,6 +258,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "FastEndpoints": {
+              "target": "Package",
+              "version": "[5.17.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"

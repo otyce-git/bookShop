@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cYS3AerirpM=",
+  "dgSpecHash": "W7nuWd1vDHs=",
   "success": true,
   "projectFilePath": "/workspaces/bookshop/src/BookShop/Modules/BookModule/BookShop.Modules.BookModule.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/fastendpoints/5.17.1/fastendpoints.5.17.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fastendpoints.attributes/5.17.1/fastendpoints.attributes.5.17.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fastendpoints.messaging.core/5.17.1/fastendpoints.messaging.core.5.17.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

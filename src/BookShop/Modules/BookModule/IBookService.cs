@@ -1,6 +1,6 @@
 namespace BookShop.Modules.BookModule;
 
-internal interface IBookService
+public interface IBookService
 {
-    IEnumerable<BookResponse> ListBooks();
+    List<BookResponse> ListBooks();
 }

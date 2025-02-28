@@ -2,7 +2,7 @@ namespace BookShop.Modules.BookModule;
 
 internal class BookService : IBookService
 {
-    public IEnumerable<BookResponse> ListBooks()
+    public List<BookResponse> ListBooks()
     {
        return [
             new BookResponse(Guid.NewGuid(), "The Fellowship of the ring", "J.R.R Tolkien"),
