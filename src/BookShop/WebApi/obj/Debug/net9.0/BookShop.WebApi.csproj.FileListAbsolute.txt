@@ -31,3 +31,4 @@
 /workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.pdb
 /workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.genruntimeconfig.cache
 /workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/ref/BookShop.WebApi.dll
+/workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.sourcelink.json

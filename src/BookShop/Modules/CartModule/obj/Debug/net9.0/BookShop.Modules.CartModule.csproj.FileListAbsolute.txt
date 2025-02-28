@@ -9,3 +9,4 @@
 /workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/refint/BookShop.Modules.CartModule.dll
 /workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.pdb
 /workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/ref/BookShop.Modules.CartModule.dll
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.sourcelink.json

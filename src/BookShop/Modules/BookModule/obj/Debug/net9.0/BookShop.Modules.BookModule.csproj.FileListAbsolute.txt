@@ -9,3 +9,4 @@
 /workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/refint/BookShop.Modules.BookModule.dll
 /workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.pdb
 /workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/ref/BookShop.Modules.BookModule.dll
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.sourcelink.json

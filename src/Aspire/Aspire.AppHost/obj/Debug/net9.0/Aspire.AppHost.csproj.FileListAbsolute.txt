@@ -88,3 +88,4 @@
 /workspaces/bookshop/src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.genruntimeconfig.cache
 /workspaces/bookshop/src/Aspire/Aspire.AppHost/obj/Debug/net9.0/ref/Aspire.AppHost.dll
 /workspaces/bookshop/src/aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire/references/BookShop_WebApi.ProjectMetadata.g.cs
+/workspaces/bookshop/src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.sourcelink.json
