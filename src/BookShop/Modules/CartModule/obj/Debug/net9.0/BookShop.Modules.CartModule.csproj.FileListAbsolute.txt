@@ -1,0 +1,11 @@
+/workspaces/bookshop/src/BookShop/Modules/CartModule/bin/Debug/net9.0/BookShop.Modules.CartModule.deps.json
+/workspaces/bookshop/src/BookShop/Modules/CartModule/bin/Debug/net9.0/BookShop.Modules.CartModule.dll
+/workspaces/bookshop/src/BookShop/Modules/CartModule/bin/Debug/net9.0/BookShop.Modules.CartModule.pdb
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.AssemblyInfoInputs.cache
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.AssemblyInfo.cs
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.csproj.CoreCompileInputs.cache
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.dll
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/refint/BookShop.Modules.CartModule.dll
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/BookShop.Modules.CartModule.pdb
+/workspaces/bookshop/src/BookShop/Modules/CartModule/obj/Debug/net9.0/ref/BookShop.Modules.CartModule.dll

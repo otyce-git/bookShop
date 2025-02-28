@@ -1,0 +1,11 @@
+/workspaces/bookshop/src/BookShop/Modules/BookModule/bin/Debug/net9.0/BookShop.Modules.BookModule.deps.json
+/workspaces/bookshop/src/BookShop/Modules/BookModule/bin/Debug/net9.0/BookShop.Modules.BookModule.dll
+/workspaces/bookshop/src/BookShop/Modules/BookModule/bin/Debug/net9.0/BookShop.Modules.BookModule.pdb
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.AssemblyInfoInputs.cache
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.AssemblyInfo.cs
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.csproj.CoreCompileInputs.cache
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.dll
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/refint/BookShop.Modules.BookModule.dll
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/BookShop.Modules.BookModule.pdb
+/workspaces/bookshop/src/BookShop/Modules/BookModule/obj/Debug/net9.0/ref/BookShop.Modules.BookModule.dll
