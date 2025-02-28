@@ -33,6 +33,45 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "BookShop.Modules.BookModule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BookShop.Modules.BookModule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookShop.Modules.BookModule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "BookShop.Modules.CartModule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BookShop.Modules.CartModule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookShop.Modules.CartModule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "BookShop.Modules.UserModule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BookShop.Modules.UserModule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookShop.Modules.UserModule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -67,10 +106,28 @@
         "microsoft.openapi.1.6.17.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "BookShop.Modules.BookModule/1.0.0": {
+      "type": "project",
+      "path": "../Modules/BookModule/BookShop.Modules.BookModule.csproj",
+      "msbuildProject": "../Modules/BookModule/BookShop.Modules.BookModule.csproj"
+    },
+    "BookShop.Modules.CartModule/1.0.0": {
+      "type": "project",
+      "path": "../Modules/CartModule/BookShop.Modules.CartModule.csproj",
+      "msbuildProject": "../Modules/CartModule/BookShop.Modules.CartModule.csproj"
+    },
+    "BookShop.Modules.UserModule/1.0.0": {
+      "type": "project",
+      "path": "../Modules/UserModule/BookShop.Modules.UserModule.csproj",
+      "msbuildProject": "../Modules/UserModule/BookShop.Modules.UserModule.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "BookShop.Modules.BookModule >= 1.0.0",
+      "BookShop.Modules.CartModule >= 1.0.0",
+      "BookShop.Modules.UserModule >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.0"
     ]
   },
@@ -98,7 +155,17 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/workspaces/bookshop/src/BookShop/Modules/BookModule/BookShop.Modules.BookModule.csproj": {
+              "projectPath": "/workspaces/bookshop/src/BookShop/Modules/BookModule/BookShop.Modules.BookModule.csproj"
+            },
+            "/workspaces/bookshop/src/BookShop/Modules/CartModule/BookShop.Modules.CartModule.csproj": {
+              "projectPath": "/workspaces/bookshop/src/BookShop/Modules/CartModule/BookShop.Modules.CartModule.csproj"
+            },
+            "/workspaces/bookshop/src/BookShop/Modules/UserModule/BookShop.Modules.UserModule.csproj": {
+              "projectPath": "/workspaces/bookshop/src/BookShop/Modules/UserModule/BookShop.Modules.UserModule.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

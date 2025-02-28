@@ -1,0 +1,4 @@
+@ApiAddress = http://localhost:5116
+
+GET {{ApiAddress}}/books
+Accept: application/json

@@ -32,3 +32,9 @@
 /workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.genruntimeconfig.cache
 /workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/ref/BookShop.WebApi.dll
 /workspaces/bookshop/src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.sourcelink.json
+/workspaces/bookshop/src/BookShop/WebApi/bin/Debug/net9.0/BookShop.Modules.BookModule.dll
+/workspaces/bookshop/src/BookShop/WebApi/bin/Debug/net9.0/BookShop.Modules.CartModule.dll
+/workspaces/bookshop/src/BookShop/WebApi/bin/Debug/net9.0/BookShop.Modules.UserModule.dll
+/workspaces/bookshop/src/BookShop/WebApi/bin/Debug/net9.0/BookShop.Modules.UserModule.pdb
+/workspaces/bookshop/src/BookShop/WebApi/bin/Debug/net9.0/BookShop.Modules.CartModule.pdb
+/workspaces/bookshop/src/BookShop/WebApi/bin/Debug/net9.0/BookShop.Modules.BookModule.pdb
