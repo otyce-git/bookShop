@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8jMlyg6jQ4s=",
+  "dgSpecHash": "clEDp+23hAg=",
   "success": true,
-  "projectFilePath": "/workspaces/bookshop/src/aspire/aspire.servicedefaults/Aspire.ServiceDefaults.csproj",
+  "projectFilePath": "/workspaces/bookshop/src/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "/home/vscode/.nuget/packages/google.protobuf/3.22.5/google.protobuf.3.22.5.nupkg.sha512",
     "/home/vscode/.nuget/packages/grpc.core.api/2.52.0/grpc.core.api.2.52.0.nupkg.sha512",

@@ -482,3 +482,13 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
+src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
+src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
+src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
+src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
+src/Aspire/Aspire.ServiceDefaults/obj/project.nuget.cache
+src/Aspire/Aspire.ServiceDefaults/obj/project.assets.json
+src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.csproj.AssemblyReference.cache
+src/BookShop/WebApi/obj/project.nuget.cache
+src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.csproj.AssemblyReference.cache

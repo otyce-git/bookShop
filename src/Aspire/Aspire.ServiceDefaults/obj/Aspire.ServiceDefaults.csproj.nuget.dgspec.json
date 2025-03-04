@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/bookshop/src/aspire/aspire.servicedefaults/Aspire.ServiceDefaults.csproj": {}
+    "/workspaces/bookshop/src/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj": {}
   },
   "projects": {
-    "/workspaces/bookshop/src/aspire/aspire.servicedefaults/Aspire.ServiceDefaults.csproj": {
+    "/workspaces/bookshop/src/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/bookshop/src/aspire/aspire.servicedefaults/Aspire.ServiceDefaults.csproj",
+        "projectUniqueName": "/workspaces/bookshop/src/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
         "projectName": "Aspire.ServiceDefaults",
-        "projectPath": "/workspaces/bookshop/src/aspire/aspire.servicedefaults/Aspire.ServiceDefaults.csproj",
+        "projectPath": "/workspaces/bookshop/src/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/bookshop/src/aspire/aspire.servicedefaults/obj/",
+        "outputPath": "/workspaces/bookshop/src/Aspire/Aspire.ServiceDefaults/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"
