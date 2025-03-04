@@ -482,13 +482,17 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
-src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
-src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
-src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
-src/Aspire/Aspire.AppHost/obj/Debug/net9.0/Aspire.AppHost.AssemblyInfo.cs
-src/Aspire/Aspire.ServiceDefaults/obj/project.nuget.cache
-src/Aspire/Aspire.ServiceDefaults/obj/project.assets.json
-src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.csproj.AssemblyReference.cache
-src/BookShop/WebApi/obj/project.nuget.cache
-src/BookShop/WebApi/obj/Debug/net9.0/BookShop.WebApi.csproj.AssemblyReference.cache
+
+# content below from:
+src/Aspire/Aspire.AppHost/obj/
+src/Aspire/Aspire.AppHost/bin/
+src/Aspire/Aspire.ServiceDefaults/obj/
+src/Aspire/Aspire.ServiceDefaults/bin/
+src/BookShop/WebApi/obj/
+src/BookShop/WebApi/bin/
+src/BookShop/Modules/UserModule/obj/
+src/BookShop/Modules/UserModule/bin/
+src/BookShop/Modules/CartModule/obj/
+src/BookShop/Modules/CartModule/bin/
+src/BookShop/Modules/BookModule/obj/
+src/BookShop/Modules/BookModule/bin/
